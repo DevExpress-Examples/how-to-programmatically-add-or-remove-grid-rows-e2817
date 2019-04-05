@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/AddRemoveDataRows/MainPage.xaml) (VB: [MainPage.xaml](./VB/AddRemoveDataRows/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/AddRemoveDataRows/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AddRemoveDataRows/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AddRemoveDataRows/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AddRemoveDataRows/MainPage.xaml.vb))
 * [Products.cs](./CS/AddRemoveDataRows/Products.cs) (VB: [Products.vb](./VB/AddRemoveDataRows/Products.vb))
 <!-- default file list end -->
 # How to programmatically add or remove grid rows
